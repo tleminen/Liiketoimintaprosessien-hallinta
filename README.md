@@ -1,4 +1,4 @@
 # Liiketoimintaprosessien-hallinta
-BPMN-kaavio tehty parityönä opintonäyteprosessin kehittämisen nykytilasta liiketoimintaprosessien hallinta kurssilla keväällä 2026
+BPMN-kaavio tehty parityönä opintonäyteprosessin nykytilasta liiketoimintaprosessien hallinta kurssilla keväällä 2026
 
 
