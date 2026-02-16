@@ -1,1 +1,0 @@
-BPMN-kaavio tehty parityönä opintonäyteprosessin kehittämisen nykytilasta liiketoimintaprosessien hallinta kurssilla keväällä 2026
